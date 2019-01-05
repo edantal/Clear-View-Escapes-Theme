@@ -1,11 +1,3 @@
 {
-  "emmet.includeLanguages":{
-    "postcss": "css"
-  },
-  "emmet.syntaxProfiles": {
-    "postcss": "css"
-  },
-  "files.associations": {
-    "*.css": "postcss"
-  }
+
 }
